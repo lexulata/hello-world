@@ -3,4 +3,4 @@
 Hi!
 
 I like Node.js and Coffeescript.
-I've had tacos on the moond and I find them superior to earth tacos.
+I've had tacos on the moon and I find them superior to earth tacos.
